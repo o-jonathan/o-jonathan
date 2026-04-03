@@ -1,3 +1,5 @@
+<h1 align="center">Sobre Mim:</h1>
+
 <img align="right" height="150" src="https://raw.githubusercontent.com/o-jonathan/o-jonathan/refs/heads/main/me.png"  />
 <h3 align="center">Olá, meu nome é <b>Jonathan Roberto</b></h3>
 <p align="center">
@@ -15,8 +17,8 @@
     <h3>Plataformas:</h3>
     <img src="https://skillicons.dev/icons?i=unity,vscode,idea,obsidian">
     <h3>Idiomas:</h3>
-    <img src="https://flagcdn.com/w40/br.png">
-    <img src="https://flagcdn.com/w40/us.png">
+    <img src="https://flagcdn.com/w40/br.png" title="português">
+    <img src="https://flagcdn.com/w40/us.png" title="english">
 </div>
 
 ---
